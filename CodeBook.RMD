@@ -2,15 +2,21 @@
 
 ## Input Data
 Input data set available at the following URL
-   https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
+   
+    https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 
 ## Variable Descriptions
+
 subject		2
+
 	Id of the subject of the experiment
+
 		1 ... 30 for 30 people who participated in the study
 
 activity	18
+
 	Different activities that were performed by the subjects
+
 		WALKING
 
 		WALKING_UPSTAIRS
@@ -25,81 +31,154 @@ activity	18
 
 
 timedomain_body_acceleration-mean_on_x_axis
+
 timedomain_body_acceleration-mean_on_y_axis
+
 timedomain_body_acceleration-mean_on_z_axis
 
+
 timedomain_body_acceleration-std_on_x_axis
+
 timedomain_body_acceleration-std_on_y_axis
+
 timedomain_body_acceleration-std_on_z_axis
 
+
 timedomain_gravity_acceleration-mean_on_x_axis
+
 timedomain_gravity_acceleration-mean_on_y_axis
+
 timedomain_gravity_acceleration-mean_on_z_axis
 
+
+
 timedomain_gravity_acceleration-std_on_x_axis
+
 timedomain_gravity_acceleration-std_on_y_axis
+
 timedomain_gravity_acceleration-std_on_z_axis
 
 timedomain_body_accelerationJerk-mean_on_x_axis
+
 timedomain_body_accelerationJerk-mean_on_y_axis
+
 timedomain_body_accelerationJerk-mean_on_z_axis
+
 timedomain_body_accelerationJerk-std_on_x_axis
+
 timedomain_body_accelerationJerk-std_on_y_axis
+
 timedomain_body_accelerationJerk-std_on_z_axis
 
+
+
 timedomain_bodyGyro-mean_on_x_axis
+
 timedomain_bodyGyro-mean_on_y_axis
+
 timedomain_bodyGyro-mean_on_z_axis
+
 timedomain_bodyGyro-std_on_x_axis
+
 timedomain_bodyGyro-std_on_y_axis
+
 timedomain_bodyGyro-std_on_z_axis
 
+
+
 timedomain_bodyGyroJerk-mean_on_x_axis
+
 timedomain_bodyGyroJerk-mean_on_y_axis
+
 timedomain_bodyGyroJerk-mean_on_z_axis
+
 timedomain_bodyGyroJerk-std_on_x_axis
+
 timedomain_bodyGyroJerk-std_on_y_axis
+
 timedomain_bodyGyroJerk-std_on_z_axis
 
+
+
 timedomain_body_accelerationMag-mean
+
 timedomain_body_accelerationMag-std
+
 timedomain_gravity_accelerationMag-mean
+
 timedomain_gravity_accelerationMag-std              
+
 timedomain_body_accelerationJerkMag-mean            
+
 timedomain_body_accelerationJerkMag-std             
 
+
+
 timedomain_bodyGyroMag-mean                         
+
 timedomain_bodyGyroMag-std                          
+
 timedomain_bodyGyroJerkMag-mean                     
+
 timedomain_bodyGyroJerkMag-std                      
 
+
 frequencydomain_body_acceleration-mean_on_x_axis
+
 frequencydomain_body_acceleration-mean_on_y_axis
+
 frequencydomain_body_acceleration-mean_on_z_axis
+
 frequencydomain_body_acceleration-std_on_x_axis
+
 frequencydomain_body_acceleration-std_on_y_axis
+
 frequencydomain_body_acceleration-std_on_z_axis
 
+
+
 frequencydomain_body_accelerationJerk-mean_on_x_axis
+
 frequencydomain_body_accelerationJerk-mean_on_y_axis
+
 frequencydomain_body_accelerationJerk-mean_on_z_axis
+
 frequencydomain_body_accelerationJerk-std_on_x_axis
+
 frequencydomain_body_accelerationJerk-std_on_y_axis
+
 frequencydomain_body_accelerationJerk-std_on_z_axis
 
+
+
 frequencydomain_bodyGyro-mean_on_x_axis
+
 frequencydomain_bodyGyro-mean_on_y_axis
+
 frequencydomain_bodyGyro-mean_on_z_axis
+
 frequencydomain_bodyGyro-std_on_x_axis
+
 frequencydomain_bodyGyro-std_on_y_axis
+
 frequencydomain_bodyGyro-std_on_z_axis
 
+
+
 frequencydomain_body_accelerationMag-mean
+
 frequencydomain_body_accelerationMag-std
+
 frequencydomain_body_body_accelerationJerkMag-mean
+
 frequencydomain_body_body_accelerationJerkMag-std
 
+
+
 frequencydomain_body_bodyGyroMag-mean
+
 frequencydomain_body_bodyGyroMag-std
+
 frequencydomain_body_bodyGyroJerkMag-mean
+
 frequencydomain_body_bodyGyroJerkMag-std
